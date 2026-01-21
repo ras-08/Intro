@@ -1,5 +1,5 @@
-# Intro
-# 👋 Hi, I'm Rashad
+# HELLO THERE 👋👋
+# I'm Rashad
 
 ### MSc Meteorology | Machine Learning | Climate Data Science 🌍
 
@@ -32,5 +32,4 @@ I’m interested in understanding **land–atmosphere interactions**,
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rashad-p-e-5578b0319/
