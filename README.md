@@ -1,35 +1,33 @@
-# HELLO THERE 👋👋
-# I'm Rashad
+<h1 align="center">Hi 👋, I'm Rashad</h1>
+<h3 align="center">A passionate</h3>
 
-### MSc Meteorology | Machine Learning | Climate Data Science 🌍
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ras-08&label=Profile%20views&color=0e75b6&style=flat" alt="ras-08" /> </p>
 
-I’m interested in understanding **land–atmosphere interactions**,  
-**monsoon dynamics**, and **ML-driven climate analysis**.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 🔭 I’m currently working on **WRF Automation and Anemoi**
 
-## 🔬 Research Interests
-- Regional climate variability
-- Land-use change & atmospheric response
-- Machine Learning for climate diagnostics
-- Monsoon dynamics & extreme events
+- 🌱 I’m currently learning **Anemoi,Machine Learning for Earth Systems**
 
----
+- 👯 I’m looking to collaborate on **Anemoi**
 
-## 🧠 Technical Skills
-- Python, NumPy, Pandas, Scikit-learn
-- Machine Learning & Data Analysis
-- Satellite & Reanalysis Data (ERA5, MODIS, IMD)
-- Git & GitHub
+- 💬 Ask me about **Bash scripting,Python,WRF,Anemoi**
 
----
+- 📫 How to reach me **ribnummer@gmail.com**
 
-## 📊 Current Focus
-- ML-based analysis of **Aravalli Range degradation**
-- Climate–land surface interaction studies
-- Spatio-temporal data analysis
+- ⚡ Fun fact **I most funnies serious guy**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rashad_ibn_umer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashad_ibn_umer" height="30" width="40" /></a>
+</p>
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/rashad-p-e-5578b0319/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ras-08&show_icons=true&locale=en&layout=compact" alt="ras-08" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ras-08&show_icons=true&locale=en" alt="ras-08" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ras-08&" alt="ras-08" /></p>
+
