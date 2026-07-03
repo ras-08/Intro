@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ribnummer@gmail.com**
 
-- ⚡ Fun fact **I most funnies serious guy**
+- ⚡ Fun fact **I'm the most funnies serious guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
